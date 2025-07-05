@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DonationTrackingSystem.Domain.Entities
+{
+    public class Bagisci
+    {
+        public Guid Id { get; set; }
+        public string AdSoyad { get; set; } = string.Empty;
+        public string Telefon { get; set; } = string.Empty;
+        public string Eposta { get; set; } = string.Empty;
+
+        public ICollection<Bagis>? Bagislar { get; set; }
+    }
+}

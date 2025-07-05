@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DonationTrackingSystem.Application\DonationTrackingSystem.Application.csproj" />
+    <ProjectReference Include="..\DonationTrackingSystem.Domain\DonationTrackingSystem.Domain.csproj" />
+    <ProjectReference Include="..\DonationTrackingSystem.Shared\DonationTrackingSystem.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

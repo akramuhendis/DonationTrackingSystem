@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+    <Nullable>enable</Nullable>
+	  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	  <IsPublishable>true</IsPublishable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DonationTrackingSystem.Application\DonationTrackingSystem.Application.csproj" />
+    <ProjectReference Include="..\DonationTrackingSystem.Domain\DonationTrackingSystem.Domain.csproj" />
+    <ProjectReference Include="..\DonationTrackingSystem.Infrastructure\DonationTrackingSystem.Infrastructure.csproj" />
+    <ProjectReference Include="..\DonationTrackingSystem.Persistence\DonationTrackingSystem.Persistence.csproj" />
+    <ProjectReference Include="..\DonationTrackingSystem.Shared\DonationTrackingSystem.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.6" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using DonationTrackingSystem.Domain.Enums;
+
+namespace DonationTrackingSystem.Domain.Entities
+{
+    public class Bagis
+    {
+        public Guid Id { get; set; }
+        public BagisTuru BagisTuru { get; set; }
+        public decimal Tutar { get; set; }
+        public string? Aciklama { get; set; }
+        public DateTime BagisTarihi { get; set; }
+
+        public Guid BagisciId { get; set; }
+        public Bagisci? Bagisci { get; set; }
+    }
+}

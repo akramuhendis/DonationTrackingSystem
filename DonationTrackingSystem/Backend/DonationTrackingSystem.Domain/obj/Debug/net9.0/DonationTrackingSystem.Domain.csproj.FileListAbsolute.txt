@@ -1,0 +1,48 @@
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.deps.json
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.dll
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.pdb
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.dll
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\obj\Debug\net9.0\refint\DonationTrackingSystem.Domain.dll
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.pdb
+C:\Users\user\source\repos\DonationTrackingSystem\DonationTrackingSystem.Domain\obj\Debug\net9.0\ref\DonationTrackingSystem.Domain.dll
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.deps.json
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.dll
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.pdb
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.dll
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\refint\DonationTrackingSystem.Domain.dll
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.pdb
+C:\Users\user\Documents\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\ref\DonationTrackingSystem.Domain.dll
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.dll
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\refint\DonationTrackingSystem.Domain.dll
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.pdb
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.deps.json
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.dll
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.pdb
+C:\Users\user\Documents\proje sürümleri\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\ref\DonationTrackingSystem.Domain.dll
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.deps.json
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.dll
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Domain.pdb
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Shared.dll
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\bin\Debug\net9.0\DonationTrackingSystem.Shared.pdb
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\Donation.A049390B.Up2Date
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.dll
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\refint\DonationTrackingSystem.Domain.dll
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\DonationTrackingSystem.Domain.pdb
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Domain\obj\Debug\net9.0\ref\DonationTrackingSystem.Domain.dll

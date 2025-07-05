@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DonationTrackingSystem",
+    "\\DonationTrackingSystem\\Backend",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Domain",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Infrastructure",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Infrastructure\\bin",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Infrastructure\\bin\\Release",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Infrastructure\\bin\\Release\\net9.0",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Persistence",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Persistence\\bin",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Persistence\\obj",
+    "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Shared"
+  ],
+  "SelectedNode": "\\DonationTrackingSystem\\Backend\\DonationTrackingSystem.Domain\\DonationTrackingSystem.Domain.csproj",
+  "PreviewInSolutionExplorer": false
+}

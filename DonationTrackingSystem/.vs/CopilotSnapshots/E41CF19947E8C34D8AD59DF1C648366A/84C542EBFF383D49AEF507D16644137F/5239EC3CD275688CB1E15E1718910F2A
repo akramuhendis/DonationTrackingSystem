@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DonationTrackingSystem.Domain.Entities
+{
+    public class MuhasebeFis
+    {
+        public Guid Id { get; set; }
+        public string FisNo { get; set; } = string.Empty;
+        public string Aciklama { get; set; } = string.Empty;
+        public decimal Tutar { get; set; }
+        public DateTime Tarih { get; set; }
+        public bool GelirMi { get; set; }
+        public Guid HesapPilaniId { get; set; }
+        public Guid HesapPilaniId { get; set; }
+        public HesapPilani? HesapPilani { get; set; } 
+    }
+}

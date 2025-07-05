@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DonationTrackingSystem.Domain.Entities
+{
+    public class HesapPlani
+    {
+        public Guid Id { get; set; }
+        public string Kod { get; set; } = string.Empty;
+        public string Ad { get; set; } = string.Empty;
+        
+        public ICollection<MuhasebeFis>? MuhasebeFisler { get; set; }
+    }
+}

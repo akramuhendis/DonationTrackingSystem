@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DonationTrackingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAEB634-8AF9-4A89-B43D-9D9E5033A961}|DonationTrackingSystem.Application\\DonationTrackingSystem.Application.csproj|c:\\users\\user\\source\\repos\\donationtrackingsystem\\donationtrackingsystem.application\\donationtrackingsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EAEB634-8AF9-4A89-B43D-9D9E5033A961}|DonationTrackingSystem.Application\\DonationTrackingSystem.Application.csproj|solutionrelative:donationtrackingsystem.application\\donationtrackingsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926F11F1-4AF4-402D-A250-D65C871F5938}|DonationTrackingSystem.Domain\\DonationTrackingSystem.Domain.csproj|c:\\users\\user\\source\\repos\\donationtrackingsystem\\donationtrackingsystem.domain\\donationtrackingsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{926F11F1-4AF4-402D-A250-D65C871F5938}|DonationTrackingSystem.Domain\\DonationTrackingSystem.Domain.csproj|solutionrelative:donationtrackingsystem.domain\\donationtrackingsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonationTrackingSystem.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DonationTrackingSystem\\DonationTrackingSystem.Domain\\DonationTrackingSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "DonationTrackingSystem.Domain\\DonationTrackingSystem.Domain.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DonationTrackingSystem\\DonationTrackingSystem.Domain\\DonationTrackingSystem.Domain.csproj",
+              "RelativeToolTip": "DonationTrackingSystem.Domain\\DonationTrackingSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T21:05:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonationTrackingSystem.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DonationTrackingSystem\\DonationTrackingSystem.Application\\DonationTrackingSystem.Application.csproj",
+              "RelativeDocumentMoniker": "DonationTrackingSystem.Application\\DonationTrackingSystem.Application.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DonationTrackingSystem\\DonationTrackingSystem.Application\\DonationTrackingSystem.Application.csproj",
+              "RelativeToolTip": "DonationTrackingSystem.Application\\DonationTrackingSystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T21:05:06.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

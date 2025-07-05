@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\bin\Debug\net9.0\DonationTrackingSystem.Shared.deps.json
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\bin\Debug\net9.0\DonationTrackingSystem.Shared.dll
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\bin\Debug\net9.0\DonationTrackingSystem.Shared.pdb
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\obj\Debug\net9.0\DonationTrackingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\obj\Debug\net9.0\DonationTrackingSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\obj\Debug\net9.0\DonationTrackingSystem.Shared.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\obj\Debug\net9.0\DonationTrackingSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\obj\Debug\net9.0\DonationTrackingSystem.Shared.dll
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\obj\Debug\net9.0\refint\DonationTrackingSystem.Shared.dll
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\obj\Debug\net9.0\DonationTrackingSystem.Shared.pdb
+C:\Users\user\Desktop\Yeni klasör (5)\DonationTrackingSystem\DonationTrackingSystem\Backend\DonationTrackingSystem.Shared\obj\Debug\net9.0\ref\DonationTrackingSystem.Shared.dll
